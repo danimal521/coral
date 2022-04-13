@@ -8,6 +8,10 @@ on:
 
 
 
+
+
+
+
 jobs:
   build:
     name: GoReleaser build
